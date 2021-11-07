@@ -11,7 +11,8 @@ In this game,
 * So, its our responsiblity to save our earth and destroy as many enemies as we can **neverending**
 # Navigations help:
 * space-ship activity:
-> function                          > Button/key
+> function      > Button/key
+> 
 *  movement in Right direction  ==>   Right arrow button/key
 * movement in left direction   ==>   Left arrow button/key
 * Bullet fire                  ==>   Space button/key
