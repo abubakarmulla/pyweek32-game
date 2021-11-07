@@ -10,12 +10,12 @@ In this game,
 * If they reach our space-ship then our space-ship gets destroyed by them and our earth will come in the dirty hands of enemies.
 * So, its our responsiblity to save our earth and destroy as many enemies as we can **neverending**
 Navigations help:
-> space-ship activity:
+>> space-ship activity:
       function                          Button/key
-movement in Right direction  ==>   Right arrow button/key
-movement in left direction   ==>   Left arrow button/key
-Bullet fire                  ==>   Space button/key
-Note: 
-close the game: 
-click the closing window button present at upper and right most corner of the game window.
+> movement in Right direction  ==>   Right arrow button/key
+> movement in left direction   ==>   Left arrow button/key
+> Bullet fire                  ==>   Space button/key
+>> Note: 
+* close the game: 
+> click the closing window button present at upper and right most corner of the game window.
 <img src="https://s3.eu-west-2.amazonaws.com/media.pyweek.org/32/space-beast/space_beast_sample.png" alt="entry done">
