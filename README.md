@@ -1,5 +1,5 @@
 # pyweek32-game development contest
-* this is a game and it is an entry done in pyweek32 challenge conducted by python software foundation @python
+* this is a game and it is an entry done in **pyweek32 challenge** conducted by python software foundation @python
 # Space Beast Game
 Info:
 this is a space war game and it is a single player(solo) game made with python.
